@@ -20,10 +20,13 @@ Esse é um episódio de podcast em vídeo com duração de 1 minuto e meio, nele
 ## 🎯 Resultados
 O objetivo desse episódio de podcast é fornecer conhecimento técnico de maneira divertida e descomplicada, ajudando iniciantes a se familiarizarem com os conceitos fundamentais de HTML e CSS, além de introduzir ferramentas, como o Figma, que facilitam o desenvolvimento web.
 
-Acesse o episódio completo do podcast em `assets`, lá você vai encontrar tanto a versão finalizada e com edição, como a versão sem edição.
+Acesse o episódio completo do podcast: 
+[LINK PARA O VÍDEO AQUI](https://youtu.be/k2iEQ4xgjl4)
 
 ## 💭 Reflexão (Opcional)
 O uso de IAs na criação de conteúdos educativos e de entretenimento, como visto no episódio do podcast acima, mostra como a tecnologia pode transformar o aprendizado. Ferramentas como ChatGPT, Virbo e Capcut facilitam a produção de materiais envolventes e acessíveis para todos.
+
+![imagem de IA](/assets/imgs/fundo-podcast.jpg)
 
 Feito por [Vanderley Oliveira👾](https://github.com/VanderleyOliveira) 
 
@@ -32,4 +35,4 @@ Conecte-se comigo:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/vanderley-oliveira-exe/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VanderleyOliveira)
 
-![imagem de IA](/assets/imgs/fundo-podcast.jpg)
+
